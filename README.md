@@ -2,10 +2,10 @@
 
 **A clean, responsive personal portfolio built with HTML, CSS and JavaScript.**
 
-## Live Deployment
+ Live Deployment="https://sravyakondapalli7-oss.github.io/portfolio-2"
 - Add your live deployment link here (GitHub Pages / Netlify / Vercel)
 
-## GitHub Repository
+ GitHub Repository="https://github.com/sravyakondapalli7-oss/portfolio-2"
 - Add your repository link here
 
 ## Technologies Used
